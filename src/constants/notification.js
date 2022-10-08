@@ -1,4 +1,3 @@
-import { toast } from 'react-toastify';
 const success = {
   position: 'bottom-right',
   autoClose: 1000,
